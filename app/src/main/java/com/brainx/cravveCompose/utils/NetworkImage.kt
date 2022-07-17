@@ -55,8 +55,20 @@ fun NetworkImage(
     shimmerParams = ShimmerParams(
       baseColor = MaterialTheme.colors.background,
       highlightColor = shimmerHighLight,
-      dropOff = 0.65f
+      dropOff = 0.68f
     ),
+
+
+
+
+
+
+
+
+
+
+
+
     failure = {
       Column(
         modifier = modifier,
