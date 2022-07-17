@@ -57,6 +57,7 @@ fun NetworkImage(
       highlightColor = shimmerHighLight,
       dropOff = 0.68f
     ),
+
     failure = {
       Column(
         modifier = modifier,
